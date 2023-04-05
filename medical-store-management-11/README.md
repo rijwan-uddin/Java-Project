@@ -22,10 +22,4 @@ This is a desktop application to manage a medical store. With this application u
 
 
 
-## Authors
 
-* **Saad Ibna Omar Sabit** - [Saad Ibna Omar Sabit](https://www.linkedin.com/in/sabit/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
